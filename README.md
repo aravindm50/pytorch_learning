@@ -16,7 +16,7 @@ Refer to notebook [2. Linear Regression.ipynb](https://github.com/aravindm50/pyt
  
  Overfitting, cross validation and other related modelling concepts not covered.
  
-## Chapter 3: Pytorch Logistic Regression
+## Chapter 3: Pytorch and Pytorch Lightning Logistic Regression
 Refer to notebook [3. Logistic Regression.ipynb](https://github.com/aravindm50/pytorch_learning/blob/main/3.%20Logistic%20Regression.ipynb)
 
  1. Basic Logistic Regression from scratch using MNIST dataset with cuda
