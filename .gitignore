@@ -1,3 +1,4 @@
 nlp/*
 .ipynb_checkpoints
 lightning_logs/*
+mnist/*
