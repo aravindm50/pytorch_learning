@@ -15,3 +15,12 @@ Refer to notebook [2. Linear Regression.ipynb](https://github.com/aravindm50/pyt
  1. Basic Linear Regression from scratch using diabetes dataset from sklearn with cuda
  
  Overfitting, cross validation and other related modelling concepts not covered.
+ 
+## Chapter 3: Pytorch Logistic Regression
+Refer to notebook [3. Logistic Regression.ipynb](https://github.com/aravindm50/pytorch_learning/blob/main/2.%20Logistic%20Regression.ipynb)
+
+ 1. Basic Logistic Regression from scratch using MNIST dataset with cuda
+ 2. Training, validation data with sklearn train test split is also done for model validation
+ 3. Vanila Pytorch version is implemented first
+ 4. Pytorch Lightning version implement at the end for ease of use and code development
+ 
